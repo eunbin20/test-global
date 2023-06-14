@@ -1,0 +1,20 @@
+{
+    "write_comment": "댓글달기",
+    "edit": "수정하기",
+    "delete": "삭제하기",
+    "show_comment_that_has_spoiler": "스포일러가 포함된 댓글 보기",
+    "sort_by_created_date": "최신순으로 보여집니다.",
+    "sort_by_best": "베스트순으로 보여집니다.",
+    "writing_comment": "댓글 작성중",
+    "editing_comment": "댓글 수정중",
+    "write_comment_placeholder": "댓글을 입력해주세요.",
+    "this_comment_includes_spoiler": "스포일러를 포함하고 있습니다",
+    "empty_comment": "댓글이 없습니다.\n첫번째 댓글을 남겨주세요.",
+    "please_log_in_for_write_comment": "댓글을 작성하려면 로그인 해주세요",
+    "comment_cannot_post_yet": "도배방지를 위해 댓글 입력 후\n일정시간동안 추가 입력을 제한하고 있어요",
+    "complete_blame": "신고가 접수되었습니다.",
+    "cant_like_up_to_ten": "한 번에 10번 좋아요 할 수 있습니다",
+    "try_again": "오류가 발생하였습니다. 잠시 후에 다시 시도해주세요.",
+    "delete_by_user": "작성자에 의해 삭제된 댓글입니다.",
+    "hidden_by_report": "신고에 의해 숨겨진 댓글입니다."
+}
