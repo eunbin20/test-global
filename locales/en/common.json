@@ -1,0 +1,133 @@
+{
+  "language": "ENGLISH",
+  "language_code": "EN",
+  "open_app": "Open App",
+  "link_copied": "Link copied. Paste it where you want",
+  "download_app": "App download",
+  "count": "{{count}}",
+  "alert": "Notice",
+  "continue_story": "Continue story?",
+  "error_occurred": "Error occurred",
+  "confirm": "Confirm",
+  "access_error": "An invalid approach or error occurred",
+  "go_home": "Back to Home",
+  "coin_use_only_mobile": "Coins cannot be bought on the Website. Please use the service after downloading the Storyplay App",
+  "play_only_mobile": "This chapter cannot be played on the Website. Please play in the Storyplay App",
+  "app_download": "Download Storyplay App",
+  "app_download_info": "Download App for your convenience",
+  "meta": {
+    "title": "Storyplay",
+    "description": "Life is only once, but here, you can turn it around"
+  },
+  "notice": "Notice",
+  "bottom_popup": {
+    "title": "Welcome to Storyplay! 🎉",
+    "show_app": "Play on App",
+    "show_web": "Stay on Web",
+    "open": "Open App",
+    "continue": "Continue",
+    "go_back": "돌아가기"
+  },
+  "app_induction": {
+    "title": "This function is only available on app",
+    "comment_property_like_description": "Comments, Likes and Properties are only available on app. Install app and experience more functions and stories!",
+    "go_chat": "Return to story",
+    "go_story_detail": "Return to story details",
+    "continue_in_app": "Continue on app",
+    "whole_purchase_description": "Unlimited Pass is only available in app. Unlimited Pass payment function is only available in app. Please install Storyplay app and try out various stories&functions!",
+    "do_later": "Try later"
+  },
+  "show_app": "Play on App",
+  "login_induction": {
+    "title": "Would you like to sign-in?",
+    "content": "To save your progress, your sign-in is mandatory",
+    "no": "Do later",
+    "yes": "Yes!"
+  },
+  "floating_banner": {
+    "content01": "If you play on app,",
+    "content02": "your progress will be saved."
+  },
+  "purchase_whole_story": "Buy Unlimited Pass",
+  "continue_whole_story": "Continue with Unlimited Pass",
+  "purchase_whole_chapter": "Buy all episodes",
+  "infinite-benefit": {
+    "title": "Get your Unlimited Pass",
+    "description": "for {{storyName}}",
+    "purchase_now": "Limited Time Offer",
+    "purchase_now_benefit": "Buy now and get {{discountRate}}% discount",
+    "purchase_once": "One-time expense",
+    "purchase_once_benefit": "Pay once, own forever",
+    "to_ending": "Unlimited play",
+    "to_ending_benefit": "Play this story without limits and explore every ending",
+    "if_ad_uncomfortable": "No ads",
+    "if_ad_uncomfortable_benefit": "Get rid of advertisement ASAP"
+  },
+  "adult_popup": {
+    "title": "The following content contains harmful or traumatizing to under 19",
+    "description": "This information is a harmful media for young people and is not available to young people under the age of 19 in accordance with the Act and the Youth Protection Act on 'Promotion of Information and Communications Network Utilization and Information Protection'.\n",
+    "expiration_period": "Through 1 annual adult certification, youth harmful media can be accessed.",
+    "recertification": "The period has expired and recertification is required.\nResults will be valid for 1 year.",
+    "certification": "Certificate",
+    "go_home": "I'm under 19",
+    "korea_only": "Authentication can be done with Korean mobile only.",
+    "available_adult_story": "X-Rated contents\n are available on web only"
+  },
+  "adult_popup_message": {
+    "title": "Verification failed.",
+    "fail": "Identity verification failed. Please try again.",
+    "under_19": "Adult authentication failed. Make sure you are above 19",
+    "complete_title": "Verification success",
+    "complete_description": "Verficication completed successfully",
+    "cancel_title": "Verification canceled"
+  },
+  "bottom_navbar": {
+    "home": "Home",
+    "challenge": "Challenge Story",
+    "more": "More",
+    "store": "Store",
+    "interactive": "인터랙티브",
+    "web_novel": "웹소설"
+  },
+  "cancel": "Cancel",
+  "write_story": "Publish",
+  "purchase_story": "작품 구매하기",
+  "purchase": "Purchase complete",
+  "purchase_and_continue_story": "작품 구매하고 플레이 이어하기",
+  "story_purchase_popup": {
+    "purchase_story": "작품을 구매합니다",
+    "retained_coin": "보유 코인",
+    "count": "개",
+    "use_coin": "코인 {{coin}}개 사용하기",
+    "close": "닫기",
+    "complete_title": "작품 구매 완료",
+    "complete": "작품을 구매하였습니다."
+  },
+  "ad_popup": {
+    "title": "Watch Ad for Free Play",
+    "desc": "Watch short Ad and continue playing chapter for free!"
+  },
+  "login_information": {
+    "title": "로그인 안내",
+    "yes": "Sign In",
+    "no": "Cancel",
+    "cannot_write_comment_before_login": "Please write comments after signing in",
+    "cannot_like_before_login": "Sign-in is priority to like.",
+    "cannot_blame_before_login": "Sign-in is priority to make report."
+  },
+  "nickname_information": {
+    "title": "댓글 작성 안내",
+    "yes": "Confirm",
+    "no": "Cancel",
+    "cannot_write_comment_before_setting_nickname": "Please write comments after creating username"
+  },
+  "interactive": "인터랙티브",
+  "web_novel": "웹소설",
+  "challenge_play_type_select_bottom_sheet": {
+    "title": "콘텐츠 선택",
+    "all": "전체"
+  },
+  "sign_in": "Sign In",
+  "challenge_story": "Challenge Story",
+  "continue_previous_story": "Would you like to continue reading?"
+}

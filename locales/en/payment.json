@@ -1,0 +1,30 @@
+{
+  "store": "스토어",
+  "coin": "코인",
+  "own_coin": "보유 코인",
+  "discount": "{{rate}}% 할인",
+  "price": "{{price}}원",
+  "hit": "다른 상품보다 인기있어요 😚",
+  "lack_coin": "코인 {{count}}개가 부족해요",
+  "use_coin": "코인 {{coin}}개 사용하기",
+  "buy_story": "작품을 구매합니다",
+  "payment": "결제하기",
+  "order_product": "주문상품",
+  "choose_payment": "결제수단 선택",
+  "choose": {
+    "card": "신용카드 및 간편결제",
+    "kakao": "카카오페이",
+    "toss": "토스",
+    "phone": "휴대폰결제"
+  },
+  "agree_msg": "위 결제조건 확인 및 결제 진행 동의",
+  "notice": "유의사항 : 결제 진행중 및 결제완료 후에는 ‘새로고침' 또는 ‘뒤로가기' 버튼을 누르지 마세요. 본인의 실수로 인한 경우 환불되지 않습니다.",
+  "fail": "결제 실패",
+  "method": "결제수단",
+  "error_msg": "에러 메시지",
+  "payment_again": "다시 결제하기",
+  "complete": "결제완료",
+  "complete_msg": "결제가\n완료되었습니다!",
+  "date": "결제일시",
+  "total_price": "최종 결제 금액"
+}

@@ -1,0 +1,86 @@
+{
+  "sign_in": "로그인",
+  "adult_story": "성인을 위한 스토리",
+  "adult_story_desc": "플레이 하려면 성인인증이 필요해요",
+  "sp_original_new_story": "신작 스토리",
+  "sp_original_new_story_desc": "새롭게 연재되는 작품을 제일 먼저 발견해보세요!",
+  "discover": "더보기",
+  "this_month_story": "월간 인기작",
+  "this_month_story_desc": "한 달 동안 사랑받았던 작품들을 만나보세요!",
+  "finished_story": "마음 놓고 정주행😎 완결 스토리",
+  "dropped_story": "발견되기를 기다리는 스토리들",
+  "story_recommendation_for_user": "당신을 위한 스토리 추천을 해드리고 싶어요",
+  "get_story_recommendation": "스토리 추천 받기 ⚡️",
+  "need_more_info_for_recommend": "스토리 추천을 위해 조금 더 자세한 정보가 필요해요!",
+  "there_was_a_scene": "이런 장면이 있었어?😮",
+  "video_story": "영상으로 미리보는 스토리",
+  "video_story_desc": "등장인물을 영상으로 감상할 수 있는 스토리들",
+  "your": "당신의",
+  "username": "{{name}}님의",
+  "past_story": "지난 스토리, 멈추지 말아요",
+  "endings_recommendation": "이런 엔딩도 있어요",
+  "another_ending_of_story": "최근 감상한 {{story}}의 다른 엔딩",
+  "other_story": "선택을 기다리는 다른 작품들",
+  "title_sp_original_new_story": "신작 스토리",
+  "weekday_tab": {
+    "monday": "월",
+    "tuesday": "화",
+    "wednesday": "수",
+    "thursday": "목",
+    "friday": "금",
+    "saturday": "토",
+    "sunday": "일",
+    "new": "신작",
+    "finished": "완결"
+  },
+  "message_not_exist_weekday_story": "연재 중인 요일별 작품이 없습니다.\n조금만 기다려주세요",
+  "title_weekday_title_tag_hiatus": "휴재",
+  "original_story": "스플 오리지널 작품",
+  "original_story_desc": "독보적인 분위기와 스타일의 작품들을 준비했어요",
+  "select_genre": "장르 선택",
+  "sorting_best": "인기순",
+  "sorting_latest": "최신순",
+  "ranking_story": "이번 주 급 상승 작품",
+  "home": {
+    "month_story": {
+      "title": "월간 스토리",
+      "sub_title": "한 달 동안 사랑받았던 작품들을 만나보세요"
+    },
+    "new_story": {
+      "title": "신작 스토리",
+      "sub_title": "새롭게 연재되는 작품을 제일 먼저 발견해보세요!"
+    },
+    "finished_story": {
+      "title": "완결 스토리",
+      "sub_title": "편하게 정주행! 완결 스토리 모음"
+    }
+  },
+  "interactive": {
+    "month_story": {
+      "title": "월간 인기작",
+      "sub_title": "한 달 동안 사랑받았던 작품들을 만나보세요"
+    },
+    "new_story": {
+      "title": "인터랙티브 신작 스토리",
+      "sub_title": "새롭게 연재되는 작품을 제일 먼저 발견해보세요!"
+    },
+    "finished_story": {
+      "title": "완결 스토리",
+      "sub_title": "편하게 정주행! 완결 스토리 모음"
+    }
+  },
+  "web_novel": {
+    "month_story": {
+      "title": "월간 스토리",
+      "sub_title": "한 달 동안 사랑받았던 작품들을 만나보세요"
+    },
+    "new_story": {
+      "title": "HOT! 신작 웹소설",
+      "sub_title": "새롭게 연재되는 작품을 제일 먼저 발견해보세요!"
+    },
+    "finished_story": {
+      "title": "완결 스토리",
+      "sub_title": "편하게 정주행! 완결 작품 모음"
+    }
+  }
+}

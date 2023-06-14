@@ -1,0 +1,15 @@
+{
+  "move_to_app": "앱으로 보기",
+  "move_to_story": "지금 바로 작품 보러가기",
+  "name_ending_card": "{{userName}}의 엔딩카드",
+  "ending_probability": "{{probability}}%의 사람들이 이 엔딩을 선택했어요\n작품을 감상하고 숨겨진 다른 엔딩을 찾아보세요",
+  "share_to_friend": "친구들에게 작품의 엔딩을 공유해보세요",
+  "share_content": {
+    "title": "소설보다 재밌는\n인터랙티브 스토리 플랫폼",
+    "content": "소설 속의 주인공이 되어,\n당신의 선택으로 새로운 이야기를 만들어 보세요.",
+    "well_made": "Well-made Interactive Stories",
+    "about_title": "우리는 작품을 만듭니다.",
+    "about_content": "타로와 심리상담으로 300만명의 마음을 위로한 ‘헬로우봇’\n그 감성을 담아 인터랙티브 스토리 플랫폼에 도전합니다.\n 장르를 넘나드는 웰메이드 작품들을 만나보세요."
+  },
+  "chapter_statistics":"회차 통계"
+}

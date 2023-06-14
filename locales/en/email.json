@@ -1,0 +1,12 @@
+{
+  "verification-confirmed": {
+    "title": "Verification confirmed",
+    "info": "Email verification has been completed successfully",
+    "description": "You can now safely manage your stories and coins when switching devices"
+  },
+  "verification-failed": {
+    "title": "Verification failed",
+    "info": "Email verification has been failed",
+    "description": "You can resend your verification mail by clicking 'Send verification again' in your profile tab"
+  }
+}

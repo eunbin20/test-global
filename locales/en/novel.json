@@ -1,0 +1,23 @@
+{
+  "scrolled": "Scroll",
+  "paginated": "page",
+  "cruise_mode": "Sprint Mode",
+  "prev_page": "<",
+  "next_page": ">",
+  "info_cruise_mode": "Sprint Mode",
+  "desc_cruise_mode": "When Sprint mode is on, you can quickly move onto the next episode. If necessary, coins may be used automatically.",
+  "never_see_again": "Don't show again",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "start_cruise_mode": "Sprint mode enabled",
+  "end_cruise_mode": "Sprint mode abled",
+  "background-color": "Background",
+  "font-size": "Font size",
+  "line-height": "Line space",
+  "letter-space": "Letter space",
+  "reset": "Reset",
+  "changed_theme_mode": "Viewer settings updated",
+  "purchase_guide": "Buy Episode",
+  "purchase_guide_desc": "Unlock chapter by using {{coin}} coins.",
+  "not_enough_coins": "코인이 부족합니다."
+}
