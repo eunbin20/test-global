@@ -6,7 +6,7 @@
     "price": "{{price}}원",
     "hit": "다른 상품보다 인기있어요 😚",
     "lack_coin": "코인 {{count}}개가 부족해요",
-    "use_coin": "코인 {{coin}}개 사용하기",
+    "use_coin": "코인 %s개 사용하기",
     "buy_story": "작품을 구매합니다",
     "payment": "결제하기",
     "order_product": "주문상품",
