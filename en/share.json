@@ -1,0 +1,15 @@
+{
+    "move_to_app": "Play in App",
+    "move_to_story": "Start the story right now",
+    "name_ending_card": "{{userName}}'s ending card",
+    "ending_probability": "{{probability}}% of other users had chose this ending.\nPlay the story and explore other hidden endings.",
+    "share_to_friend": "Share your ending stories to your friends",
+    "share_content": {
+        "title": "Interactive story,\nthat is more attractive than fiction",
+        "content": "Become the protagonist of the story,\nand create a new story upon your choice",
+        "well_made": "Well-made Interactive Stories",
+        "about_title": "We create stories",
+        "about_content": "‘HelloBot’, that comforted the hearts of 3 million people with Tarot and psychological counseling,\nchallenges the interactive story platform with its sensibilities.\nDiscover well-made works that cross genres."
+    },
+    "chapter_statistics": "Chapter Statistics"
+}
