@@ -6,23 +6,23 @@ on:
       - opened
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout 소스 코드
         uses: actions/checkout@v2
 
-    - name: 브랜치 이름 확인
-      run: |
-        BRANCH_NAME=${GITHUB_REF#refs/pull/}
-        BRANCH_NAME=${BRANCH_NAME%/merge}
-        if [[ $BRANCH_NAME == lokalise-* ]]; then
-          echo "브랜치 이름: $BRANCH_NAME"
-        else
-          echo "PR에 대한 배포 워크플로우가 실행되지 않습니다."
-          exit 78
-        fi
+      - name: 브랜치 이름 확인
+        run: |
+          BRANCH_NAME=${GITHUB_REF#refs/pull/}
+          BRANCH_NAME=${BRANCH_NAME%/merge}
+          if [[ $BRANCH_NAME == lokalise-* ]]; then
+            echo "브랜치 이름: $BRANCH_NAME"
+          else
+            echo "PR에 대한 배포 워크플로우가 실행되지 않습니다."
+            exit 78
+          fi
 
       - name: 어플리케이션 빌드 및 테스트
         run: |
