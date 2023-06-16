@@ -1,0 +1,22 @@
+{
+    "scrolled": "스크롤",
+    "paginated": "페이지",
+    "cruise_mode": "정주행",
+    "prev_page": "이전",
+    "next_page": "다음",
+    "info_cruise_mode": "정주행 모드 안내",
+    "desc_cruise_mode": "정주행 모드를 적용하면 빠르게 다음 화를 볼 수 있습니다. 필요한 경우 코인이 자동으로 사용될 수 있습니다.",
+    "never_see_again": "다시 보지 않기",
+    "cancel": "취소",
+    "start_cruise_mode": "정주행 모드가 시작되었습니다.",
+    "background-color": "배경색",
+    "font-size": "글자크기",
+    "line-height": "줄간격",
+    "letter-space": "여백",
+    "reset": "초기화",
+    "changed_theme_mode": "시스템 설정이 변경되었습니다.",
+    "purchase_guide": "회차 구매 안내",
+    "purchase_guide_desc": "코인 {{coin}}개를\n 사용하여 진행합니다.",
+    "not_enough_coins": "코인이 부족합니다.",
+    "end_cruise_mode": "뭐지 왜 빈칸이얌?"
+}
