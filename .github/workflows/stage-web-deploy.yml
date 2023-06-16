@@ -15,10 +15,9 @@ jobs:
 
       - name: 브랜치 이름 확인
         run: |
-          BRANCH_NAME=${GITHUB_REF#refs/pull/}
-          BRANCH_NAME=${BRANCH_NAME%/merge}
-          echo "브랜치 이름: $BRANCH_NAME"
-          if [[ $BRANCH_NAME == lokalise-* ]]; then
+          BRANCH_NAME=$(echo "${GITHUB_REF#refs/pull/}")
+          BRANCH_NAME=$(echo "${BRANCH_NAME%/merge}")
+          if [[ "$BRANCH_NAME" =~ ^lokalise- ]]; then
             echo "브랜치 이름: $BRANCH_NAME"
           else
             echo "PR에 대한 배포 워크플로우가 실행되지 않습니다."
