@@ -17,6 +17,7 @@ jobs:
         run: |
           BRANCH_NAME=${GITHUB_REF#refs/pull/}
           BRANCH_NAME=${BRANCH_NAME%/merge}
+          echo "브랜치 이름: $BRANCH_NAME"
           if [[ $BRANCH_NAME == lokalise-* ]]; then
             echo "브랜치 이름: $BRANCH_NAME"
           else
