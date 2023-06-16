@@ -1,0 +1,20 @@
+{
+    "write_comment": "Write comment",
+    "edit": "Edit",
+    "delete": "Delete",
+    "show_comment_that_has_spoiler": "This comment contains spoiler",
+    "sort_by_created_date": "Shown by the newest order.",
+    "sort_by_best": "Shown by most liked order.",
+    "writing_comment": "Comment typing",
+    "editing_comment": "Comment editing",
+    "write_comment_placeholder": "Please write a comment.",
+    "this_comment_includes_spoiler": "This comment contains a spoiler.",
+    "empty_comment": "No best comment yet.\nBe the first to write one.",
+    "please_log_in_for_write_comment": "Please write comments after signing in",
+    "comment_cannot_post_yet": "To prevent spam,\n comment duration is limited",
+    "complete_blame": "We've recieved your report.",
+    "cant_like_up_to_ten": "You can Like for 10 times at once",
+    "try_again": "Error occurred. Please try again",
+    "delete_by_user": "Comment is deleted by the writer.",
+    "hidden_by_report": "Comment is hidden due to report."
+}
