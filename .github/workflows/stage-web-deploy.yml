@@ -1,0 +1,22 @@
+name: 배포 워크플로우
+
+on:
+  pull_request:
+    branches:
+      - "lokalise-*"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 소스 코드
+        uses: actions/checkout@v2
+
+      - name: 어플리케이션 빌드 및 테스트
+        run: |
+          # 빌드 및 테스트 명령어를 여기에 작성하세요.
+
+      - name: 배포
+        run: |
+          # 배포 스크립트 또는 명령어를 여기에 작성하세요.
