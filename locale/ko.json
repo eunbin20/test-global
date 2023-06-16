@@ -1,0 +1,134 @@
+{
+    "story": {
+        "translation": "작품"
+    },
+    "chapter": {
+        "translation": "회차"
+    },
+    "view": {
+        "translation": "조회수"
+    },
+    "like": {
+        "translation": "좋아요"
+    },
+    "comment": {
+        "translation": "댓글"
+    },
+    "author_name": {
+        "translation": "도전 스토리 작가"
+    },
+    "write_new_story": {
+        "translation": "새로운 작품 쓰기"
+    },
+    "be_author_of_challenge_story": {
+        "translation": "도전스토리 작가가 되어보세요 ✍️"
+    },
+    "write_my_story": {
+        "translation": "내 작품 쓰러가기"
+    },
+    "how_to_use_studio": {
+        "translation": "스튜디오 사용 방법 안내"
+    },
+    "todays_popular_story": {
+        "translation": "오늘의 인기작"
+    },
+    "todays_genre_story": {
+        "translation": "오늘의 장르별 베스트"
+    },
+    "challenge_story": {
+        "translation": "도전 스토리"
+    },
+    "recommended": {
+        "translation": "인기순"
+    },
+    "latest_commented_story": {
+        "translation": "최근 댓글순"
+    },
+    "most_likes": {
+        "translation": "좋아요순"
+    },
+    "most_views": {
+        "translation": "조회순"
+    },
+    "most_recent": {
+        "translation": "업데이트순"
+    },
+    "contest": {
+        "translation": "공모전"
+    },
+    "contest_progress": {
+        "translation": "공모전 진행중!"
+    },
+    "theres_no_story": {
+        "translation": "앗! 도전 스토리가 없어요."
+    },
+    "please_be_challenge_writer": {
+        "translation": "이 장르의 첫 도전 작가가 되어주세요!"
+    },
+    "monthly_contest": {
+        "translation": "월간 공모전"
+    },
+    "scrolled": {
+        "translation": "스크롤"
+    },
+    "paginated": {
+        "translation": "페이지"
+    },
+    "cruise_mode": {
+        "translation": "정주행"
+    },
+    "prev_page": {
+        "translation": "이전"
+    },
+    "next_page": {
+        "translation": "다음"
+    },
+    "info_cruise_mode": {
+        "translation": "정주행 모드 안내"
+    },
+    "desc_cruise_mode": {
+        "translation": "정주행 모드를 적용하면 빠르게 다음 화를 볼 수 있습니다. 필요한 경우 코인이 자동으로 사용될 수 있습니다."
+    },
+    "never_see_again": {
+        "translation": "다시 보지 않기"
+    },
+    "cancel": {
+        "translation": "취소"
+    },
+    "confirm": {
+        "translation": "확인"
+    },
+    "start_cruise_mode": {
+        "translation": "정주행 모드가 시작되었습니다."
+    },
+    "background-color": {
+        "translation": "배경색"
+    },
+    "font-size": {
+        "translation": "글자크기"
+    },
+    "line-height": {
+        "translation": "줄간격"
+    },
+    "letter-space": {
+        "translation": "여백"
+    },
+    "reset": {
+        "translation": "초기화"
+    },
+    "changed_theme_mode": {
+        "translation": "시스템 설정이 변경되었습니다."
+    },
+    "purchase_guide": {
+        "translation": "회차 구매 안내"
+    },
+    "purchase_guide_desc": {
+        "translation": "코인 {{coin}}개를\n 사용하여 진행합니다."
+    },
+    "not_enough_coins": {
+        "translation": "코인이 부족합니다."
+    },
+    "end_cruise_mode": {
+        "translation": "Sprint mode abled"
+    }
+}
