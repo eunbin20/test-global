@@ -1,0 +1,134 @@
+{
+    "story": {
+        "translation": "Stories"
+    },
+    "chapter": {
+        "translation": "Episodes"
+    },
+    "view": {
+        "translation": "Views"
+    },
+    "like": {
+        "translation": "Likes"
+    },
+    "comment": {
+        "translation": "Comments"
+    },
+    "author_name": {
+        "translation": "Publisher"
+    },
+    "write_new_story": {
+        "translation": "Write a new story"
+    },
+    "be_author_of_challenge_story": {
+        "translation": "Become a Challenge story writer ✍️"
+    },
+    "write_my_story": {
+        "translation": "Create my story"
+    },
+    "how_to_use_studio": {
+        "translation": "How can I write?"
+    },
+    "todays_popular_story": {
+        "translation": "Top stories for today"
+    },
+    "todays_genre_story": {
+        "translation": "Trending content by genre"
+    },
+    "challenge_story": {
+        "translation": "Challenge Story"
+    },
+    "recommended": {
+        "translation": "Most Popular"
+    },
+    "latest_commented_story": {
+        "translation": "Newly commented"
+    },
+    "most_likes": {
+        "translation": "Like"
+    },
+    "most_views": {
+        "translation": "View"
+    },
+    "most_recent": {
+        "translation": "Newly updated"
+    },
+    "contest": {
+        "translation": "Contest"
+    },
+    "contest_progress": {
+        "translation": "ongoing!"
+    },
+    "theres_no_story": {
+        "translation": "Oops! No stories written yet!"
+    },
+    "please_be_challenge_writer": {
+        "translation": "Be the first writer of this genre!"
+    },
+    "monthly_contest": {
+        "translation": "Monthly Contest"
+    },
+    "scrolled": {
+        "translation": "Scroll"
+    },
+    "paginated": {
+        "translation": "page"
+    },
+    "cruise_mode": {
+        "translation": "Sprint Mode"
+    },
+    "prev_page": {
+        "translation": "<"
+    },
+    "next_page": {
+        "translation": ">"
+    },
+    "info_cruise_mode": {
+        "translation": "Sprint Mode"
+    },
+    "desc_cruise_mode": {
+        "translation": "When Sprint mode is on, you can quickly move onto the next episode. If necessary, coins may be used automatically."
+    },
+    "never_see_again": {
+        "translation": "Don't show again"
+    },
+    "cancel": {
+        "translation": "Cancel"
+    },
+    "confirm": {
+        "translation": "Confirm"
+    },
+    "start_cruise_mode": {
+        "translation": "Sprint mode enabled"
+    },
+    "background-color": {
+        "translation": "Background"
+    },
+    "font-size": {
+        "translation": "Font size"
+    },
+    "line-height": {
+        "translation": "Line space"
+    },
+    "letter-space": {
+        "translation": "Letter space"
+    },
+    "reset": {
+        "translation": "Reset"
+    },
+    "changed_theme_mode": {
+        "translation": "Viewer settings updated"
+    },
+    "purchase_guide": {
+        "translation": "Buy Episode"
+    },
+    "purchase_guide_desc": {
+        "translation": "Unlock chapter by using {{coin}} coins."
+    },
+    "not_enough_coins": {
+        "translation": "코인이 부족합니다."
+    },
+    "end_cruise_mode": {
+        "translation": "Sprint mode abled"
+    }
+}
